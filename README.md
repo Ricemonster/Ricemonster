@@ -1,4 +1,5 @@
 ![浏览数](https://visitor-badge.glitch.me/badge?page_id=Ricemonster.readme)
+https://img.shields.io/github/followers/Ricemonster?label=%E5%96%9C%E6%AC%A2%E6%88%91%E7%9A%84%E4%BA%BA&style=for-the-badge
 
 
 ###  <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi, 我是城外, 一个前端工程师, 空闲也折腾 树莓派 / Node / Goland

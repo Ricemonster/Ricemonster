@@ -1,6 +1,6 @@
-![游客](https://visitor-badge.glitch.me/badge?page_id=Ricemonster.readme)
-![粉丝](https://img.shields.io/github/followers/Ricemonster?label=%E8%BF%BD%E9%9A%8F%E8%80%85&style=for-the-badge)
-![Star](https://img.shields.io/github/stars/Ricemonster?label=%E6%98%9F%E6%A0%87&style=for-the-badge)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Ricemonster.readme)
+![follower](https://img.shields.io/github/followers/Ricemonster)
+![Star](https://img.shields.io/github/stars/Ricemonster)
 
 
 

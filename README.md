@@ -4,7 +4,7 @@
 
 
 ### Hello World!
-<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> 你好~ 我是城外, 生活在四川, 一名喜欢 coding 的菜鸟程序员, 主要写前端, 空闲也折腾 C++ 和 树莓派, 喜欢开源分享, 讨厌重复劳动.
+<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> 你好~ 我是城外, 生活在四川, 一名喜欢 coding 的前端程序员, 主要写JavaScript, 空闲也折腾 C++ 和 树莓派, 喜欢开源分享, 讨厌重复劳动.
 
 <table width="800px">
 <tr>

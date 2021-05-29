@@ -4,13 +4,13 @@
 
 
 ### Hello World!
-<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> 你好~ 我是城外, 生活在四川, 一名喜欢coding的菜鸟程序员, 主要写前端,空闲也折腾C++和树莓派, 喜欢开源分享, 讨厌重复劳动.
+<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> 你好~ 我是城外, 生活在四川, 一名喜欢 coding 的菜鸟程序员, 主要写前端, 空闲也折腾 C++ 和 树莓派, 喜欢开源分享, 讨厌重复劳动.
 
 <table width="800px">
 <tr>
 <td valign="top" width="50%">
 
-#### 🏋️‍♀️ <a href="https://github.com/tw93/tw93/blob/main/releases.md" target="_blank">Product Releases</a>
+#### 📈 <a href="https://github.com/tw93/tw93/blob/main/releases.md" target="_blank">开源进度</a>
 
 <!-- recent_releases starts -->
 * <a href='https://github.com/alibaba/x-render/releases/tag/v1.4.0' target='_blank'>x-render form-render v1.4.0</a> - 2021-05-26
@@ -24,7 +24,7 @@
 </td>
 <td valign="top" width="50%">
 
-#### 🤹‍♀️ <a href="https://tw93.github.io/" target="_blank">Recent Blog</a>
+#### 🔥 <a href="https://tw93.github.io/" target="_blank">最近的文章</a>
 
 <!-- blog starts -->
 * <a href='https://tw93.github.io/2020-07-17/markdown.html' target='_blank'>Github 居然可以这么玩</a> - 2020-07-17
@@ -39,7 +39,7 @@
 <tr>
 <td valign="top" width="50%">
 
-#### 🏊‍♂️ <a href="https://gist.github.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6" target="_blank">Weekly Development Breakdown</a>
+#### ✔️ <a href="https://gist.github.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6" target="_blank">常用开发语言</a>
 
 <!-- code_time starts -->
 
@@ -57,7 +57,7 @@ PHP                11 mins  ████▓░░░░░░░░░░░░�
 </td>
 <td valign="top" width="50%">
 
-#### 🤾‍♂️ <a href="https://www.douban.com/people/tangwei93/" target="_blank">Funny Soul</a>
+#### 💡 <a href="https://www.douban.com/people/tangwei93/" target="_blank">杂文随记</a>
 
 <!-- douban starts -->
 
@@ -66,13 +66,6 @@ PHP                11 mins  ████▓░░░░░░░░░░░░�
   </td>
 </tr>
 </table>
-
-
-
-
-
-
-
 
 
 #### 🛠️技术栈与开发工具
